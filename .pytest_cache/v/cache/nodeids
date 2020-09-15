@@ -1,0 +1,6 @@
+[
+  "tests/test_login_to_portal.py::TestLoginToPortal::test_invalid_login",
+  "tests/test_login_to_portal.py::TestLoginToPortal::test_valid_login",
+  "tests/test_main_products.py::TestMainProducts::test_adding_product_to_cart",
+  "tests/test_main_products.py::TestMainProducts::test_count_products_number"
+]
